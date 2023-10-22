@@ -1,4 +1,4 @@
-# stable_diffusion
+# Stable Diffusion
 ## Resource for pose
 https://www.posemaniacs.com/
 ## Source code
