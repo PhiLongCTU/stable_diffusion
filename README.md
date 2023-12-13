@@ -12,5 +12,5 @@ https://www.posemaniacs.com/
 - [Seaart](https://www.seaart.ai/)
 - [Tensor art](https://tensor.art/)
 - [Happyaccidents](https://www.happyaccidents.ai/)
-- [krea ai](https://www.krea.ai/home)
-- [leonardo ai](https://app.leonardo.ai/api-access)
+- [Krea ai](https://www.krea.ai/home)
+- [Leonardo ai](https://app.leonardo.ai/api-access)
